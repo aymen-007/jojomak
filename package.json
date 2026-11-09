@@ -1,0 +1,13 @@
+{
+  "name": "telegram-proxy-backend",
+  "version": "1.0.0",
+  "description": "Render backend proxy to Telegram",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.19.2"
+  }
+}
